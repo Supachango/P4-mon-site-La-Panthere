@@ -13,6 +13,9 @@ button {
     outline: none!important;
 }
 
+.col-sm-6 p{
+    text-align: center;
+}
 
 a:hover {
     text-decoration: none;
