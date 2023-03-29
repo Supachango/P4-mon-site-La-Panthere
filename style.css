@@ -452,7 +452,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFFF;
+    color: #000000;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -732,7 +732,7 @@ h4 {
 }
 
 .white {
-    color: #ffffff!important;
+    color: #020202!important;
 }
 
 .portfolio-thumb {
@@ -772,11 +772,11 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: hsl(0, 0%, 100%)!important;
 }
 
 .btn-atomic-tangerine {
-    background: #ffffff;
+    background: #000000;
     color: #F3976C!important;
 }
 
